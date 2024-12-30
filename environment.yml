@@ -124,6 +124,6 @@ dependencies:
   - zipp=3.21.0=py39hca03da5_0
   - zlib=1.2.13=hfb2fe0b_6
   - pip:
-	- three
-	- webxr-polyfill
+    - three
+    - webxr-polyfill
 prefix: /opt/anaconda3/envs/webxr_env
